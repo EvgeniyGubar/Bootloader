@@ -1,4 +1,0 @@
-boot.c:21:6:Go_to_App	24	static,ignoring_inline_asm
-boot.c:41:6:flash_erase	8	static
-boot.c:57:6:flash_program	552	static
-boot.c:99:6:Bootloader_Main	24	static
